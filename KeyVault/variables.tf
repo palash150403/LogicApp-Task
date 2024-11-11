@@ -1,5 +1,3 @@
 variable "sku_Name" {}
-variable "vault_name" {
-  # type = list(string)
-}
+variable "vault_name" {}
 variable "rg_name" {}
